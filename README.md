@@ -9,7 +9,5 @@ The goal is to create a safe and efficient platform for financial transactions u
 
 <img width="441" alt="UML" src="https://github.com/user-attachments/assets/ee375ec8-678f-407f-825c-5083330217cb" />
 
-# HOME of UVU3100 Banking
-<img width ="241" alt ="UML"
-![image](https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb)
-/>
+# HOME UVU3100 Banking
+<img width ="241" alt ="UML" src="https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb"/>
