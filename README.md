@@ -7,4 +7,4 @@ The goal is to create a safe and efficient platform for financial transactions u
 
 
 
-<img width="241" alt="UML" src="https://github.com/user-attachments/assets/ee375ec8-678f-407f-825c-5083330217cb" />
+<img width="441" alt="UML" src="https://github.com/user-attachments/assets/ee375ec8-678f-407f-825c-5083330217cb" />
