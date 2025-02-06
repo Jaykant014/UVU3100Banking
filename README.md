@@ -34,7 +34,7 @@ The goal is to create a safe and efficient platform for financial transactions u
 •	Conduct through security testing after fixing.
 •	Deliverables: code analysis report.
 
-# Milestone 4 Code Security Analysis (Deadline 03-23-2025):
+# Milestone 4 : Remediation  (Deadline 03-23-2025):
 •	Develop and document a remediation plan for addressing identified vulnerabilities.
 •	Apply fixes to insecure code, ensuring compatibility with the overall system.
 •	Conduct thorough testing to validate the effectiveness of the fixes.
