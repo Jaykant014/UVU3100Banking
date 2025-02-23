@@ -9,8 +9,11 @@ The goal is to create a safe and efficient platform for financial transactions u
 
 <img width="441" alt="UML" src="https://github.com/user-attachments/assets/ee375ec8-678f-407f-825c-5083330217cb" />
 
+# ER-Diagram
+ * <img width ="241" alt="ER" src= "https://github.com/user-attachments/assets/2c2684b2-d85d-4d7c-8882-7ab6d14937e1)" />
+
 # HOME UVU3100 Banking GUI
-<img width ="241" alt ="UML" src="https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb"/>
+<img width ="241" alt ="GUI" src="https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb"/>
 
 # Time work-Frame for UVU3100 Safe Mobile Banking System
 
