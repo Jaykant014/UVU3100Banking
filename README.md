@@ -19,7 +19,7 @@ The goal is to create a safe and efficient platform for financial transactions u
 
 
 
-# Milestone 1 Research and Design (Deadline 02-02-2025):
+# Milestone 1 Research and Design 
 
 *	Study common security issues in mobile banking.
 *	Review existing cryptographic algorithms like AES, RSA, and study security standards.
@@ -28,7 +28,7 @@ The goal is to create a safe and efficient platform for financial transactions u
 *	Document the design principles, potential threats, and countermeasures.
 *	Tasks prioritize with the timeline frame.
 
-# Milestone 2 Implementation (Deadline 02-23-2025):
+# Milestone 2 Implementation 
 
 *	Coding in the android studio using Java language
 *	Identify and prioritize vulnerabilities
