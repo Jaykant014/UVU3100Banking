@@ -70,13 +70,15 @@ The goal is to create a safe and efficient platform for financial transactions u
 
 # How to Run the Anriod Studio.
 * Create the class and requriment subclass.
+* Create AVD or Use the Firebase Virtula remote for Execution.
 * In the AndriodMainfest.xml create the Attributes according with the classes.
 * Form the Project view:
   * <img width="468" alt="AndriodMainfest" src="https://github.com/user-attachments/assets/d25d8153-0a5c-433a-ad8d-57c8630017fc" />
 
 * Xml files for everclasses.
 * Sync project with the Gradel file.
-  * In case if it not running then go top left tab clik on bulid > clean | rebuild the project.
-  * 
+  * In case if it not running then go top left tab clik on bulid > clean | rebuild the project, Sync project with the Gradel file.
+  * OR Invalidate Caches.
+    
 
 
