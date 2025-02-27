@@ -40,9 +40,9 @@ The goal is to create a safe and efficient platform for financial transactions u
 *	Identify and prioritize vulnerabilities
 *	Conduct initial testing for functionality and correctness.
 *	Deliverables: working app with basic security features.
-  * The Work Accomplished:
-  * Addded requried classes for this project, working on The UI.
-  *	 Working with the Firebase Authentication able to connect to the Anriod studio and create the project on the firebase console ("Authentication").
+  * #  The Work Accomplished:
+     * Addded requried classes for this project, working on The UI.
+     * Working with the Firebase Authentication able to connect to the Anriod studio and create the project on the firebase console ("Authentication").
 *	# My filePath
   *	  <img width="350" alt="Classdir" src="https://github.com/user-attachments/assets/8033ee08-efca-4cae-9baf-942c2f0670d9" />
   
