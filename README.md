@@ -13,7 +13,9 @@ The goal is to create a safe and efficient platform for financial transactions u
 <img width="700" alt="UVUER" src="https://github.com/user-attachments/assets/a41a9cfb-a1cb-4b31-a8e5-92c5c1b64384" />
 
 # HOME UVU3100 Banking GUI
-<img width ="241" alt ="GUI" src="https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb"/>
+* # Login UIview
+<img width="194" alt="loging" src="https://github.com/user-attachments/assets/4331758c-7a3a-4afa-a8bf-abfedee19b1c" />
+
 
 <img width="268" alt="fea" src="https://github.com/user-attachments/assets/81cff008-7a86-4db5-b4d2-42e67ee2645b" />
 
