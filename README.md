@@ -70,16 +70,19 @@ The goal is to create a safe and efficient platform for financial transactions u
 *	Deliverables: Complete the Android application app with secure code and deployed, Project report, user guide, and final project submission.
 
 # How to Run the Anriod Studio.
-* Create the class and requriment subclass.
-* Create AVD or Use the Firebase Virtula remote for Execution.
+* Create the class and requriment subclasses.
+* Create AVD or Use the Firebase (must be connected with the Firebase)Virtula remote for Execution.
 * In the AndriodMainfest.xml create the Attributes according with the classes.
 * Form the Project view:
   * <img width="468" alt="AndriodMainfest" src="https://github.com/user-attachments/assets/d25d8153-0a5c-433a-ad8d-57c8630017fc" />
 
-* Xml files for everclasses.
+* Xml files with fields and attributes for every classes.
 * Sync project with the Gradel file.
   * In case if it not running then go top left tab clik on bulid > clean | rebuild the project, Sync project with the Gradel file.
   * OR Invalidate Caches.
+  * It wil display on te Installed AVD and Display on manager (Running Devices).
+  * <img width="250" alt="exe" src="https://github.com/user-attachments/assets/d7127e6b-b837-4827-92b5-961ab8a12c12" />
+
     
 
 
