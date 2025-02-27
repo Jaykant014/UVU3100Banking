@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UVU3100 Banking</string>
+    <string name="login_title">UVU3100 Safe Banking System Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="reset_password">reset_password</string>
+    <string name="welcome_message">Welcome to UVU3100 Bank!</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="account_details">Account Details</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="recipient_hint">Recipient</string>
+    <string name="amount_hint">Amount</string>
+    <string name="send_button">Send</string>
+</resources>

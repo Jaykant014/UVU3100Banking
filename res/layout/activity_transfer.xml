@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <!-- Recipient Field -->
+    <EditText
+        android:id="@+id/recipient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/recipient_hint"
+        android:inputType="textPersonName"
+        android:autofillHints="name"
+        android:layout_marginTop="20dp" />
+
+    <!-- Amount Field -->
+    <EditText
+        android:id="@+id/amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/amount_hint"
+        android:inputType="numberDecimal"
+        android:autofillHints="paymentAmount"
+        android:layout_below="@id/recipient"
+        android:layout_marginTop="10dp" />
+
+    <!-- Send Button -->
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_button"
+        android:layout_below="@id/amount"
+        android:layout_marginTop="20dp"
+        android:background="@color/teal_500"
+        android:textColor="@android:color/white" />
+</RelativeLayout>

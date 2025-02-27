@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:background="@android:color/white"
+    android:layout_marginBottom="1dp">
+
+    <TextView
+        android:id="@+id/transactionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:id="@+id/accountInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Account Info"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"/>
+
+</RelativeLayout>
