@@ -30,12 +30,23 @@ The goal is to create a safe and efficient platform for financial transactions u
 *	Document the design principles, potential threats, and countermeasures.
 *	Tasks prioritize with the timeline frame.
 
+* # Implement the AVD(Andriod Virtual Device)
+  * Using the pixle 5 API 35 ("vaillalceCream") | x84_64
+
+
 # Milestone 2 Implementation 
 
 *	Coding in the android studio using Java language
 *	Identify and prioritize vulnerabilities
 *	Conduct initial testing for functionality and correctness.
 *	Deliverables: working app with basic security features.
+  
+*	# Working with the Firebase Authentication able to connect to the Anriod studio and create the project on the firebase console.
+*	# My filePath
+  *	  <img width="350" alt="Classdir" src="https://github.com/user-attachments/assets/8033ee08-efca-4cae-9baf-942c2f0670d9" />
+  
+  * <img width="314" alt="Gradledir" src="https://github.com/user-attachments/assets/24d9c095-25c4-4d79-83a8-47ad798577a5" />
+
 
 # Milestone 3 Code Security Analysis (Deadline 03-23-2025):
 
