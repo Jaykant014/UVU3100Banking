@@ -15,7 +15,9 @@ The goal is to create a safe and efficient platform for financial transactions u
 # HOME UVU3100 Banking GUI
 <img width ="241" alt ="GUI" src="https://github.com/user-attachments/assets/39b5b558-9445-42ce-a1bb-1ef10bacffcb"/>
 
-# Time work-Frame for UVU3100 Safe Mobile Banking System
+<img width="268" alt="fea" src="https://github.com/user-attachments/assets/81cff008-7a86-4db5-b4d2-42e67ee2645b" />
+
+
 
 # Milestone 1 Research and Design (Deadline 02-02-2025):
 
