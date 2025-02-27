@@ -80,7 +80,7 @@ The goal is to create a safe and efficient platform for financial transactions u
 * Sync project with the Gradel file.
   * In case if it not running then go top left tab clik on bulid > clean | rebuild the project, Sync project with the Gradel file.
   * OR Invalidate Caches.
-  * It wil display on te Installed AVD and Display on manager (Running Devices).
+  * It wil display on Installed AVD and Display on Device manager (Running Devices).
   * <img width="250" alt="exe" src="https://github.com/user-attachments/assets/d7127e6b-b837-4827-92b5-961ab8a12c12" />
 
     
